@@ -240,4 +240,4 @@ This repository serves as the official landing page for Handy Backup. The softwa
 **Get the most recent version of Handy Backup today!**
 
 ---
-**Last updated:** 2026-10-12 23:27:13 UTC
+**Last updated:** 2026-10-13 05:18:36 UTC
